@@ -2,3 +2,4 @@
 !/docs/*/
 /docs/images/*
 venv
+__pycache__
